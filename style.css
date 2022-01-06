@@ -1,0 +1,20 @@
+html {
+  background-color: #e6e6e6;
+text-align: center;
+padding-top: 95px;
+  font-color: white;
+    background-image: url(https://clipart.world/wp-content/uploads/2021/04/Feet-clipart-transparent-2.png);
+background-position: center;
+}
+h1 {
+  font-family: monospace;
+}
+body {
+  font-family: arial
+  font-size: 1rem;
+  line-height: 1.5;
+      background-image: 
+}
+form {
+  background: rgba(100,100,100,0.5);
+}
